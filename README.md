@@ -1,2 +1,2 @@
-# WeCanLearn
-Programming and other learning resources I use.
+# WeLearn
+Useful learning resources I scoured online. Might start my own tutorials. Probably not.
